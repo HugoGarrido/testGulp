@@ -1,0 +1,5 @@
+body {
+  background: red;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  color: blue; }
